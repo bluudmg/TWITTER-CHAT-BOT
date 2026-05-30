@@ -153,6 +153,5 @@ xchat-bot/
 
 ---
 
-## License
-
-MIT
+License
+This project is licensed under the Viral Public License.
